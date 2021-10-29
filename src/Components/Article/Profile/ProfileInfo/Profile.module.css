@@ -1,0 +1,65 @@
+
+.datas img{
+    width: 100px;
+}
+
+.like input{
+    width: 25px;
+
+}
+
+/*.infoSet{*/
+/*    float: right;*/
+/*}*/
+/*.data{*/
+/*    padding: 50px;*/
+/*    !*margin-left: 80px;*!*/
+/*}*/
+/*.profileName{*/
+/*    float: left;*/
+/*}*/
+.logos{
+    background: url(../../../additional/newLogopng.png);
+    /*float: right;*/
+    width: 820px;
+    height: 300px;
+}
+.logoDefault img{
+    width: 100px;
+    /*float: left;*/
+    
+}
+.contacts{
+    padding: 10px;
+}
+
+.inputfile + label {
+    font-size: 1em;
+    font-weight: 700;
+    color: black;
+    display: none;
+    opacity: 0;
+    /* display: inline-block; */
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    grid-gap: 2vw;
+}
+.buttonType{
+    outline: none;
+    display: inline-block;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    /*text-transform: uppercase;*/
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0,0,0,.1);
+    transition: .5s;
+}

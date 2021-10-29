@@ -1,0 +1,9 @@
+.error{
+    border:2px solid red;
+}
+.errorText{
+    color:red;
+}
+.loginError{
+    background-color: #C5C5C5;
+}

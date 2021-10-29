@@ -1,0 +1,54 @@
+
+.header{
+    float:right;
+}
+/* .nameProjects {
+    animation-name: text-name;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    width: 100px;
+    top: 10px;
+    font-size: 20px;
+}
+.section{
+
+}
+@keyframes text-name {
+    0%{
+        color: black;
+
+    }
+    35% {
+        color: #4000FF;
+
+    }
+    50% {
+        color: #B34EE9;
+
+    }
+    100% {
+        color: #FF00AE;
+
+    }
+} */
+.login{
+    float: right;
+    font-size:20px;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+.logo{
+    width: 25px;
+}
+.loginSet{
+    float: right;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+
+.loginSet a{
+    text-decoration: none;
+    color:white;
+}
