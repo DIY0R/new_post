@@ -2,10 +2,10 @@ import axios from "axios";
 import { ProfileType } from "../types/types";
 
 const instance = axios.create({
-  baseURL: "https://social-network.samuraijs.com/api/1.0/",
+  baseURL: "*********",
   withCredentials: true,
   headers: {
-    "API-KEY": "530e88fc-11f5-4125-84ad-dfb90c56d192"
+    "API-KEY": "************************"
   }
 });
 
